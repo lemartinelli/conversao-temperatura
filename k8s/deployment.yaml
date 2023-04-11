@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: ledomartinelli/conversao-temperatura:v1
+          image: ledomartinelli/conversao-temperatura:v2
 ---
 apiVersion: v1
 kind: Service
